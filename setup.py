@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='smidge',
-    version='0.0.3',
+    version='0.0.4',
     descrption='Small python tools',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
